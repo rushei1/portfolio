@@ -6,7 +6,7 @@ const projects = [
     title: "Invoice Extractor with RAG + OCR",
     description:
       "Extracts data from invoices including handwritten ones using OCR, enhanced with a Retrieval-Augmented Generation pipeline.",
-    image: "/projects/project1.png",
+    image: "/portfolio/projects/project1.png",
     tags: ["Python", "OCR", "RAG", "FastAPI"],
     githubUrl: "https://github.com/rushei1/invoice-extractor",
   },
@@ -15,7 +15,7 @@ const projects = [
     title: "Whisper + Pyannote Cuss Detection",
     description:
       "Cuss detection using speaker diarization with Pyannote and transcription with Whisper, deployed via Streamlit.",
-    image: "/projects/project2.png",
+    image: "/portfolio/projects/project2.png",
     tags: ["Whisper", "Pyannote", "Streamlit", "HuggingFace"],
     githubUrl: "https://github.com/rushei1/identification-of-curse-words-in-movies",
   },
@@ -24,7 +24,7 @@ const projects = [
     title: "Campus Navigation AR/VR",
     description:
       "Unity-based AR/VR app to guide students across MIT WPU using AR markers, published in a research journal.",
-    image: "/projects/project3.png",
+    image: "/portfolio/projects/project3.png",
     tags: ["Unity", "AR", "VR", "Research"],
     githubUrl: "https://github.com/rushei1/AR-Based-Navigation-System",
   },
@@ -33,7 +33,7 @@ const projects = [
     title: "Fake News Detection using ML & NLP",
     description:
       "A machine learning model that classifies news as fake or real using NLP techniques like TF-IDF and logistic regression.",
-    image: "/projects/project4.png",
+    image: "/portfolio/projects/project4.png",
     tags: ["Python", "NLP", "scikit-learn"],
     githubUrl: "https://github.com/rushei1/Fake-News-Detection",
   },
@@ -42,7 +42,7 @@ const projects = [
     title: "Seminar Booking System",
     description:
       "C++ based desktop application that allows students to book seminar slots and admins to manage schedules using OOP principles.",
-    image: "/projects/project5.png",
+    image: "/portfolio/projects/project5.png",
     tags: ["C++", "OOP"],
     githubUrl: "https://github.com/rushei1/seminar-booking-system",
   },
@@ -51,7 +51,7 @@ const projects = [
     title: "Netflix Clone",
     description:
       "A static responsive front-end clone of the Netflix landing page, built using HTML5 and modern CSS techniques.",
-    image: "/projects/project6.png",
+    image: "/portfolio/projects/project6.png",
     tags: ["HTML", "CSS", "Frontend"],
     githubUrl: "https://github.com/rushei1/netflix-landing-page",
   },
